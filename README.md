@@ -8,7 +8,7 @@
   <a href="https://github.com/EnricoGollner">
 
   [![Enrico's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EnricoGollner&show_icons=true&theme=github_dark)](https://github.com/EnricoGollner?tab=repositories)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGollner&theme=github_dark&langs_count=3&hide=c%2b%2b,CMake)](https://github.com/EnricoGollner?tab=repositories)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGollner&theme=github_dark&langs_count=3&hide=html,css,php,c%2b%2b,CMake)](https://github.com/EnricoGollner?tab=repositories)
 </div>
   
   

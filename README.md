@@ -2,7 +2,7 @@
 ## Hey 👋
 ### I'm Enrico 😁
 
-  - 📱Mobile & Back-End Developer 💻
+  - 📱 Mobile (iOS & Flutter) & Back-End Developer (Java, Kotlin & Spring) 💻
 
 <div align="center">
   <a href="https://github.com/EnricoGollner">

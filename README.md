@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=13A7F7&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Enrico+%F0%9F%98%81)](https://git.io/typing-svg)
 
-📱 Mobile (iOS & Flutter) & Back-End Developer (Java, Kotlin & Spring) 💻
+📱 Mobile (iOS & Flutter) & Back-End Developer 💻
 
 
 

@@ -1,33 +1,45 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=13A7F7&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Enrico+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Enrico+Gollner;I'm+20+years+old;I'm+from+Brazil;I'm+a+Mobile+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-📱 Web (Angular), Mobile (iOS & Flutter) & Back-End (Java & Spring) Developer 💻
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurzimm&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="arthur zimmermann git status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzimm&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div> 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-<div align="center">
+<p align="left"> 
+  Olá, me chamo <strong>Enrico Sousa Gollner</strong>, sou formado em Análise e Desenvolvimento de Sistemas pela universidade UNISALES - Salesiano.<br>Atualmente trabalho como<strong>Desenvolvedor Mobile</strong>.<br>
   
-  <a href="https://github.com/EnricoGollner">
+</p>
 
-  [![Enrico's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EnricoGollner&show_icons=true&theme=github_dark)](https://github.com/EnricoGollner?tab=repositories)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGollner&theme=github_dark&langs_count=4&hide=html,css,php,c%2b%2b,CMake)](https://github.com/EnricoGollner?tab=repositories)
+<p align="left">
+   <strong>🦄 Languages: </strong>
+  <div style= "display: inline_block"><br/>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
-    <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</div><br>
-  <div>
-  <a href="https://www.linkedin.com/in/enrico-gollner-a91972219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:enricogollner.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+   
+<code> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,python)](https://skillicons.dev)</code>
 </div>
+</p>
+
+
+<p align="left">
+  <strong>💌 Social Network:</strong> ⤵️
+  <div align="center"> 
+<a href="https://www.instagram.com/arthurzimmermann_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:arthur.zimmermann11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arthur-zimmermann-de-oliveira-63b347207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+</p>
+
+
+
+<br/>
+<br/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arthurzimm}/count.svg" /></p> 
+<br>
 </div>
- 
-
-

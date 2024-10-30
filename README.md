@@ -15,7 +15,6 @@
   <code>[![My Skills](https://skillicons.dev/icons?i=figma,mysql,sqlite,mongo,firebase,git)](#)</code><br><br>
   </div>
 </div>
-<br>
 
 <div align="center">
     <img src="/github-metrics.svg">

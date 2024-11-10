@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=Hello!)](https://github.com/EnricoGollner)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=My+name+is+Enrico+Gollner)](https://github.com/EnricoGollner)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&width=1000&lines=I'm+20+years+old;I'm+from+Brazil;I'm+a+Mobile+Developer;Be+Welcome!+:%29)](https://github.com/EnricoGollner)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Mobile+Developer;Be+Welcome!+:%29)](https://github.com/EnricoGollner)
 
 <div align="center">  
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=EnricoGollner&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="Enrico Gollner's git status" /> 

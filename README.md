@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3535&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&repeat=false&duration=2000&width=1000&lines=Hello!)](https://github.com/EnricoGollner)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=Hello!)](https://github.com/EnricoGollner)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=My+name+is+Enrico+Gollner)](https://github.com/EnricoGollner)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&width=1000&lines=I'm+20+years+old;I'm+from+Brazil;I'm+a+Mobile+Developer;Be+Welcome!+:%29)](https://github.com/EnricoGollner)
 

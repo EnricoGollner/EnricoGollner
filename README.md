@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3535&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=Hello!)](https://github.com/EnricoGollner)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=My+name+is+Enrico+Gollner)](https://github.com/EnricoGollner)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3535&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Developer+and+Data+Engineer;Be+Welcome!+:%29)](https://github.com/EnricoGollner)
-
 <div align="center">  
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=EnricoGollner&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="Enrico Gollner's git status" /> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGollner&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide=c%2B%2B,cmake,c" />

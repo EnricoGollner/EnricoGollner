@@ -9,7 +9,7 @@
    <h2 align="center">🛠 Technologies</h2>
   <div align="center" style= "display: inline_block">
    
-  <code><img src="https://skillicons.dev/icons?i=flutter,swift,angular,kotlin,java,spring"></code><br><br>
+  <code><img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,angular,java,spring"></code><br><br>
   <code>[![My Skills](https://skillicons.dev/icons?i=figma,firebase,aws,docker,git)](#)</code><br><br>
   </div>
 </div>

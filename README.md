@@ -1,16 +1,24 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3535&height=120&section=header"/>
 
-<!--
-**EnricoGollner/EnricoGollner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGollner&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide=c%2B%2B,cmake,c" />
+</div> 
+<br>
+<div align="center">
+   <h2 align="center">🛠 Technologies</h2>
+  <div align="center" style= "display: inline_block">
+   
+  <code><img src="https://skillicons.dev/icons?i=flutter,react,java,spring,dotnet"></code><br><br>
+  <code>[![My Skills](https://skillicons.dev/icons?i=figma,firebase,aws,docker,git)](#)</code><br><br>
+  </div>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<p align="center">
+  <strong>📧 Social Network:</strong> ⤵️
+  <div align="center"> 
+    <a href="https://www.linkedin.com/in/enrico-gollner-a91972219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3535&height=120&section=footer"/>

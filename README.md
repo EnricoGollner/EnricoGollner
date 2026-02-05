@@ -14,6 +14,11 @@ Atualmente estou cursando a pós-graduação de "Software Architecture" da FIAP 
   </div>
 </div>
 
+<div align="center">
+   <img src="./profile/stats.svg" width=370>
+   <img src="./profile/top-langs.svg">
+</div>
+
 <br>
 <p align="center">
   <strong>📧 Social Network:</strong> ⤵️

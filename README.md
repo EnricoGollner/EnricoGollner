@@ -9,7 +9,7 @@ Atualmente estou cursando a pós-graduação de "Software Architecture" da FIAP 
    <h2 align="center">🛠 Technologies</h2>
   <div align="center" style= "display: inline_block">
    
-  <code><img src="https://skillicons.dev/icons?i=flutter,react,java,spring,dotnet"></code><br><br>
+  <code><img src="https://skillicons.dev/icons?i=flutter,angular,dotnet,java,spring"></code><br><br>
   <code>[![My Skills](https://skillicons.dev/icons?i=figma,firebase,aws,docker,git)](#)</code><br><br>
   </div>
 </div>

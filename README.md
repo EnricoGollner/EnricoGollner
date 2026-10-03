@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo! 👋
 
-Me chamo Enrico Gollner, trabalho há 4 anos como desenvolvedor de software, adquirindo experiência em desenvolvimento web (React, Angular, C# ASP .NET, um pouco de Java Spring) e mobile (Flutter).<br>
+Me chamo Enrico Gollner, trabalho há 4 anos como desenvolvedor de software, adquirindo experiência em desenvolvimento web (Angular, C# ASP .NET) e mobile (Flutter e Android).<br>
 Atualmente estou cursando a pós-graduação de "Software Architecture" da FIAP e participando do treinamento "Descomplicando AWS 2026" da LinuxTips para aprimorar meus conhecimentos em Cloud.
 
 <div align="center">

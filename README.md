@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3535&height=120&section=header"/>
 
-### Seja bem-vindo! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D79533&vCenter=true&random=false&width=260&lines=Welcome+to+my+GitHub!" alt="Typing SVG"/></a>
+</p>
 
-Me chamo Enrico Gollner, trabalho há 4 anos como desenvolvedor de software, adquirindo experiência em desenvolvimento web (Angular, C# ASP .NET) e mobile (Flutter e Android).<br>
-Atualmente estou cursando a pós-graduação de "Software Architecture" da FIAP e participando do treinamento "Descomplicando AWS 2026" da LinuxTips para aprimorar meus conhecimentos em Cloud.
 
 <div align="center">
    <h2 align="center">🛠 Technologies</h2>
